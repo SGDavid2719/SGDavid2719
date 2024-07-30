@@ -11,7 +11,7 @@ Hello! I'm **David Santomé Galván**, a computer engineering graduate with a ke
 
 - 🌍 Location: Palma of Mallorca, Spain
 - 📚 Currently Learning: Data Structures, Design Patterns, Software Architecture, SOLID Principles
-- 💼 Looking for opportunities in: Software Development, System Architecture
+- 💼 Looking for opportunities in: Software Development, IT Architecture
 - ✉️ Contact: [santome.galvan.david@gmail.com](mailto:santome.galvan.david@gmail.com)
 - 📄 LinkedIn: [David Santomé Galván](https://www.linkedin.com/in/david-santom%C3%A9-galv%C3%A1n-8815021b8/)
 
@@ -45,7 +45,7 @@ A series of classic games implemented in HTML, CSS, and JavaScript. The collecti
 
 - 🌍 Ubicación: Palma de Mallorca, España
 - 📚 Actualmente Aprendiendo: Estructuras de Datos, Patrones de Diseño, Arquitectura de Software, Principios SOLID
-- 💼 Buscando oportunidades en: Desarrollo de Software, Arquitectura de Sistemas
+- 💼 Buscando oportunidades en: Desarrollo de Software, Arquitectura de Software
 - ✉️ Contacto: [santome.galvan.david@gmail.com](mailto:santome.galvan.david@gmail.com)
 - 📄 LinkedIn: [David Santomé Galván](https://www.linkedin.com/in/david-santom%C3%A9-galv%C3%A1n-8815021b8/)
 
