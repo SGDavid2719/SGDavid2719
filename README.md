@@ -17,6 +17,10 @@ Hello! I'm **David Santomé Galván**, a computer engineering graduate with a ke
 
 ## Featured Projects
 
+### [JSRunner](https://github.com/SGDavid2719/JSRunner)
+
+This project is a desktop application built with Electron that allows users to write and run JavaScript code in a local environment. It is designed to be a simple and effective tool for developers who want to experiment with JavaScript on their desktops.
+
 ### [URLShortener](https://github.com/SGDavid2719/URLShortener)
 
 This project is a complete URL shortener, which includes a backend built with Java and Spring Boot, a frontend built with React, and a PostgreSQL database. The project is dockerized for easy deployment and local development.
@@ -50,6 +54,10 @@ A series of classic games implemented in HTML, CSS, and JavaScript. The collecti
 - 📄 LinkedIn: [David Santomé Galván](https://www.linkedin.com/in/david-santom%C3%A9-galv%C3%A1n-8815021b8/)
 
 ## Proyectos Destacados
+
+### [JSRunner](https://github.com/SGDavid2719/JSRunner)
+
+Este proyecto es una aplicación de escritorio construida con Electron que permite a los usuarios escribir y ejecutar código JavaScript en un entorno local. Está diseñado para ser una herramienta sencilla y efectiva para los desarrolladores que desean experimentar con JavaScript en sus escritorios.
 
 ### [URLShortener](https://github.com/SGDavid2719/URLShortener)
 
